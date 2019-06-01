@@ -1,0 +1,19 @@
+@media (max-width: 768px){
+    .slider-wrapper{
+        height: calc(90vh - 78px) !important;
+        .btn-wrapper{
+            a{
+                &.btn{
+                    width: 100%;
+                    margin-left: 0 !important;
+                    font-size: 0.8125rem !important;
+                }
+            }
+        }
+    }
+    .slider__head{
+        left: 50% !important;
+        transform: translate(-50%, -50%);
+        padding: 0.25rem 1rem;
+    }
+}

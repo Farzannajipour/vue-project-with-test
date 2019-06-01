@@ -1,0 +1,112 @@
+/* === BUTTON === */
+.btn {
+	display: inline-block;
+	vertical-align: middle;
+	min-width: 12em;
+	font: 1rem/2.5 BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+	padding-left: .705em;
+	padding-right: .705em;
+	border-width: 2px;
+	border-style: solid;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	overflow: hidden;
+	-webkit-transition: background-color .3s cubic-bezier(0.215, 0.61, 0.355, 1),
+	-webkit-transform .2s cubic-bezier(0.215, 0.61, 0.355, 1);
+	transition: background-color .3s cubic-bezier(0.215, 0.61, 0.355, 1),
+	-webkit-transform .2s cubic-bezier(0.215, 0.61, 0.355, 1);
+	transition: transform .2s cubic-bezier(0.215, 0.61, 0.355, 1),
+	background-color .3s cubic-bezier(0.215, 0.61, 0.355, 1);
+	transition: transform .2s cubic-bezier(0.215, 0.61, 0.355, 1),
+	background-color .3s cubic-bezier(0.215, 0.61, 0.355, 1),
+	-webkit-transform .2s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.btn::after {
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	-webkit-transform: translateX(-100%);
+	transform: translateX(-100%);
+	-webkit-transition: -webkit-transform .2s cubic-bezier(0.075, 0.820, 0.165, 1.000);
+	transition: -webkit-transform .2s cubic-bezier(0.075, 0.820, 0.165, 1.000);
+	transition: transform .2s cubic-bezier(0.075, 0.820, 0.165, 1.000);
+	transition: transform .2s cubic-bezier(0.075, 0.820, 0.165, 1.000), -webkit-transform .2s cubic-bezier(0.075, 0.820, 0.165, 1.000);
+}
+
+.btn--sec::after {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.btn--main {
+	color: #FFFFFF;
+	border-color: #F89F1C;
+	background-color: #F89F1C;
+}
+
+.btn--main::after {
+	background: rgba(255, 255, 255, .25);
+}
+
+.btn--full {
+	display: block;
+	width: 100%;
+}
+
+.btn--share {
+	border: 0 none;
+	min-width: 20em;
+	color: #FFFFFF;
+}
+
+.btn--rounded {
+	display: inline-block;
+	width: 3em;
+	height: 3em;
+	line-height: 3;
+	margin: 0 0.5em;
+	border-radius: 100%;
+	color: #FFFFFF;
+	text-align: center;
+	position: relative;
+	-webkit-transition: none;
+	transition: none;
+}
+
+.btn--rounded .icon {
+	height: 0.75em;
+	width: 0.75em;
+}
+
+.btn--fb {
+	background-color: #3B5997;
+}
+
+.btn--tw {
+	background-color: #00ACEE;
+}
+
+.btn--pint {
+	background-color: #BD081C;
+}
+
+.btn:active {
+	-webkit-transform: scale(0.9);
+	transform: scale(0.9);
+}
+
+
+.btn-wrapper--center {
+	text-align: center;
+}
+
+/* === OVERRIDE FLICKITY BUTTONS */
+.flickity-prev-next-button {
+	background: rgba(0, 0, 0, 0);
+	-webkit-transition: background-color .3s;
+	transition: background-color .3s;
+}

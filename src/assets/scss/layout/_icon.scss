@@ -1,0 +1,41 @@
+/* === ICON === */
+.icon {
+	display: inline-block;
+	width: 1em;
+	height: 1.1em;
+	fill: currentColor;
+}
+
+.icon--share,
+.icon--share path {
+	-webkit-transition-duration: 1s;
+	transition-duration: 1s;
+	-webkit-transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1.000);
+	transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1.000);
+}
+
+.icon--share {
+	fill: #FFFFFF;
+	-webkit-transition-property: fill;
+	transition-property: fill;
+}
+
+.icon--share path {
+	stroke-dasharray: 4553;
+	stroke-dashoffset: 4553;
+	stroke: currentColor;
+	stroke-width: 20px;
+	-webkit-transition-property: stroke-dashoffset;
+	transition-property: stroke-dashoffset;
+}
+
+.icon--light {
+	font-size: 2rem;
+	color: #FFFFFF;
+}
+
+.icon--dark {
+	font-size: 2rem;
+	color: $default-color;
+	fill: $default-color;
+}

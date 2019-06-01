@@ -1,0 +1,79 @@
+/* === HELPER CLASSES === */
+.hidden {
+	display: none !important;
+	visibility: hidden;
+}
+
+.cf:after {
+	content: " ";
+	clear: both;
+	display: table;
+}
+
+.mb {
+	margin-bottom: 1em;
+}
+
+.mh {
+	margin-right: 1em;
+	margin-left: 1em;
+}
+
+.slider__head {
+	width: 90%;
+	max-width: 100%;
+}
+
+html {
+	font-size: 90%;
+}
+
+.ph {
+	padding-right: 2em;
+	padding-left: 2em;
+}
+
+.slider__head {
+	max-width: 50%;
+	padding-right: 2em;
+	padding-left: 2em;
+}
+
+.form__row > .layout__item {
+	margin-right: 1em;
+}
+
+label[for="project-upload"] {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	-webkit-transition: -webkit-transform .1s cubic-bezier(1.000, 0.000, 0.000, 1.000);
+	transition: -webkit-transform .1s cubic-bezier(1.000, 0.000, 0.000, 1.000);
+	transition: transform .1s cubic-bezier(1.000, 0.000, 0.000, 1.000);
+	transition: transform .1s cubic-bezier(1.000, 0.000, 0.000, 1.000), -webkit-transform .1s cubic-bezier(1.000, 0.000, 0.000, 1.000);
+}
+
+.btn ~ .btn {
+	margin-left: 2em;
+}
+
+.main-footer .layout__item:last-child {
+	text-align: right;
+}
+
+.tabs__cmd > svg {
+	width: 50px;
+}
+
+.tabs__content-wrapper.has-size {
+	min-height: 60vh;
+}
+
+.gallery__el {
+	-webkit-flex-basis: 25%;
+	-ms-flex-preferred-size: 25%;
+	flex-basis: 25%;
+	margin-bottom: 1em;
+}
+
+

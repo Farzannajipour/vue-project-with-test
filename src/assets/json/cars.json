@@ -1,0 +1,347 @@
+[
+  {
+    "attrs": {
+      "carId": "616",
+      "make": "Renault",
+      "model": "Twizy",
+      "submodel": "Citycar 3 porte",
+      "year": "2015",
+      "img": "https://placeimg.com/200/85/arch"
+    },
+    "tags": {
+      "Perceived level": "low cost",
+      "Internal space": "For Singles",
+      "External size": "1 %ile",
+      "Segment": "citycar",
+      "Traction": "posterior",
+      "Roof": "fixed",
+      "Fuel type": "electrical",
+      "Look": "modern",
+      "Trunk": "1 %ile",
+      "Accessibility": "normal",
+      "Price": "1% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "566",
+      "make": "Renault",
+      "model": "Captur",
+      "submodel": "SUV 5 porte",
+      "year": "2015",
+      "img": "https://placeimg.com/200/85/arch"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "4 people comfort",
+      "External size": "23 %ile",
+      "Segment": "crossover",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "original",
+      "Trunk": "61 %ile",
+      "Accessibility": "accessible",
+      "Price": "22% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "615",
+      "make": "Renault",
+      "model": "Laguna",
+      "submodel": "coupé 2 porte",
+      "year": "2013",
+      "img": "https://placeimg.com/200/85/arch"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "4 people comfort",
+      "External size": "66 %ile",
+      "Segment": "berlina-3v",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "55 %ile",
+      "Accessibility": "reduced",
+      "Price": "46% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "328",
+      "make": "Opel",
+      "model": "Astra",
+      "submodel": "berlina 3 vol. 4 porte",
+      "year": "2016",
+      "img": "https://placeimg.com/200/85/arch"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "4 people comfort",
+      "External size": "69 %ile",
+      "Segment": "berlina-3v",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "classic",
+      "Trunk": "45 %ile",
+      "Accessibility": "normal",
+      "Price": "27% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1293",
+      "make": "Hyundai",
+      "model": "i10",
+      "submodel": "City car 5 porte",
+      "year": "2015",
+      "img": "https://placeimg.com/200/85/arch"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "2-4 people",
+      "External size": "7 %ile",
+      "Segment": "citycar",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "16 %ile",
+      "Accessibility": "reduced",
+      "Price": "5% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "323",
+      "make": "Opel",
+      "model": "Adam",
+      "submodel": "berlina 2 vol. 3 porte",
+      "year": "2015",
+      "img": "https://placeimg.com/200/85/arch"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "For Singles",
+      "External size": "8 %ile",
+      "Segment": "citycar",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "original",
+      "Trunk": "9 %ile",
+      "Accessibility": "reduced",
+      "Price": "13% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1410",
+      "make": "KIA",
+      "model": "Rio",
+      "submodel": "berlina 2 vol. 5 porte",
+      "year": "2015",
+      "img": "https://placeimg.com/200/85/arch"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "2-4 people",
+      "External size": "19 %ile",
+      "Segment": "compact",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "40 %ile",
+      "Accessibility": "normal",
+      "Price": "9% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1411",
+      "make": "KIA",
+      "model": "Rio",
+      "submodel": "berlina 2 vol. 3 porte",
+      "year": "2015",
+      "img": "https://placeimg.com/200/85/arch"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "2-4 people",
+      "External size": "19 %ile",
+      "Segment": "compact",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "40 %ile",
+      "Accessibility": "reduced",
+      "Price": "2% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1956",
+      "make": "Opel",
+      "model": "Karl",
+      "submodel": "Citycar 5 Porte",
+      "year": "2016",
+      "img": "https://placeimg.com/200/85/arch"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "4 people comfort",
+      "External size": "7 %ile",
+      "Segment": "citycar",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "16 %ile",
+      "Accessibility": "normal",
+      "Price": "2% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1968",
+      "make": "Hyundai",
+      "model": "i30",
+      "submodel": "2 volumi 3 porte",
+      "year": "2015",
+      "img": "https://placeimg.com/200/85/arch"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "4 people comfort",
+      "External size": "34 %ile",
+      "Segment": "berlina-3v",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "diesel",
+      "Look": "modern",
+      "Trunk": "46 %ile",
+      "Accessibility": "reduced",
+      "Price": "27% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1967",
+      "make": "Hyundai",
+      "model": "i30",
+      "submodel": "Wagon 5 porte",
+      "year": "2015",
+      "img": "https://placeimg.com/200/85/arch"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "5 people comfort",
+      "External size": "51 %ile",
+      "Segment": "station",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "diesel",
+      "Look": "modern",
+      "Trunk": "80 %ile",
+      "Accessibility": "normal",
+      "Price": "26% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1979",
+      "make": "Hyundai",
+      "model": "ix20",
+      "submodel": "monov. comp. 5 porte",
+      "year": "2015",
+      "img": "https://placeimg.com/200/85/arch"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "4 people comfort",
+      "External size": "22 %ile",
+      "Segment": "monovolume",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "58 %ile",
+      "Accessibility": "normal",
+      "Price": "19% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1966",
+      "make": "Hyundai",
+      "model": "i30",
+      "submodel": "berlina 2 vol. 5 porte",
+      "year": "2015",
+      "img": "https://placeimg.com/200/85/arch"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "4 people comfort",
+      "External size": "34 %ile",
+      "Segment": "berlina-2v",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "diesel",
+      "Look": "modern",
+      "Trunk": "46 %ile",
+      "Accessibility": "accessible",
+      "Price": "24% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "1341",
+      "make": "Opel",
+      "model": "Corsa",
+      "submodel": "berlina 2 vol. 5 porte",
+      "year": "2016",
+      "img": "https://placeimg.com/200/85/arch"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "2-4 people",
+      "External size": "17 %ile",
+      "Segment": "compact",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "modern",
+      "Trunk": "27 %ile",
+      "Accessibility": "normal",
+      "Price": "14% percentile"
+    }
+  },
+  {
+    "attrs": {
+      "carId": "387",
+      "make": "Renault",
+      "model": "Mégane Coupé",
+      "submodel": "coupé 3 porte",
+      "year": "2015",
+      "img": "https://placeimg.com/200/85/arch"
+    },
+    "tags": {
+      "Perceived level": "mass market low",
+      "Internal space": "2-4 people",
+      "External size": "36 %ile",
+      "Segment": "berlina-2v",
+      "Traction": "anterior",
+      "Roof": "fixed",
+      "Fuel type": "gasoline",
+      "Look": "sport",
+      "Trunk": "46 %ile",
+      "Accessibility": "normal",
+      "Price": "23% percentile"
+    }
+  }
+]
